@@ -1,2 +1,2 @@
-# leetcode_typescript
+# Leetcode Typescript
 Leetcode Problem Solutions Written in TypeScript
